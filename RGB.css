@@ -100,6 +100,8 @@ body{
 	border-radius: 25px;
 
 	transition: background 0.4s;
+	-webkit-transition: background 0.4s;
+	-moz-transition: background 0.4s;
 }
 
 .cc{
@@ -108,4 +110,6 @@ body{
 	border-radius: 0px 0px 10px 10px;
 	color: white;
 	transition: all 0.2s;
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
 }
